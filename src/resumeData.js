@@ -1,7 +1,10 @@
 let resumeData = {
   name: "Tim",
+  fullName: "Tim Nguyen",
   role: "Full-Stack Developer",
   linkedinId: "https://www.linkedin.com/in/timng93/",
+  phone: "604-362-9472",
+  email: "timgabrielnguyen@gmail.com",
   skypeid: "timng93",
   roleDescription:
     " I am a values driven developer that is motivated by complex problems and new knowledge of the web. Although I am relatively new to the world of code, my confidence grows daily as I take on increasingly challenging projects. My dedication, hard work, and ability to learn quickly are what make me a great asset to any team.",
@@ -29,36 +32,35 @@ let resumeData = {
     {
       UniversityName: "Red Academy - Vancouver BC",
       specialization: "Full Stack Diploma",
-      MonthOfPassing: "March",
-      YearOfPassing: "2019"
+      MonthOfPassing: "Oct 2018 - Mar 2019"
     },
     {
       UniversityName: "Brain Station- Vancouver BC",
       specialization: "Certificate UX Design",
-      MonthOfPassing: "August",
-      YearOfPassing: "2018"
+      MonthOfPassing: "Jun 2018 - Aug 2018"
     },
     {
       UniversityName: "University of British Columbia - Vancouver BC",
       specialization: "Bachelor of Science in Biology",
-      MonthOfPassing: "April",
-      YearOfPassing: "2015"
+      MonthOfPassing: "Sep 2011 - May 2015"
     }
   ],
   work: [
     {
       CompanyName: "BC Sustainable Energy Association",
-      specialization: "Some specialization",
-      MonthOfLeaving: "Jan",
-      YearOfLeaving: "2018",
-      Achievements: "Some Achievements"
+      specialization: "App Developer",
+      MonthOfLeaving: "Mar",
+      YearOfLeaving: "2019",
+      Achievements:
+        "Worked in a team of four to build an iOS app that helps students track environmental footprints, in under 3 weeks. Technologies involved: GraphQL, Apollo, React Native, Node. Queried data with GraphQL and built ReactNative interface."
     },
     {
-      CompanyName: "Some Company",
-      specialization: "Some specialization",
+      CompanyName: "UME Academy",
+      specialization: "Web Developer",
       MonthOfLeaving: "Jan",
       YearOfLeaving: "2018",
-      Achievements: "Some Achievements"
+      Achievements:
+        "Worked in a team of four to build a WordPress arcade that showcases students games, in under 3 weeks. Technologies involved: WordPress, PHP, JavaScript, CSS. Programmed with PHP to display WordPress Content and styled CSS content."
     }
   ],
   skills: [
