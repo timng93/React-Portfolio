@@ -61,6 +61,13 @@ let resumeData = {
       YearOfLeaving: "2018",
       Achievements:
         "Worked in a team of four to build a WordPress arcade that showcases students games, in under 3 weeks. Technologies involved: WordPress, PHP, JavaScript, CSS. Programmed with PHP to display WordPress Content and styled CSS content."
+    },
+    {
+      CompanyName: "Sunny Academy",
+      specialization: "Private Tutor",
+      MonthOfLeaving: "Feb 2016 - Sep 2018",
+      Achievements:
+        "Planned sessions and taught high school students Math and Science subjects. Provide ddetailed explanations and challenged students to go beyond the curriculum."
     }
   ],
   skills: [
@@ -76,24 +83,24 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "project1",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg"
+      name: "CoolIt",
+      description: "iOs App",
+      imgurl: "images/coolIt.png"
     },
     {
-      name: "project2",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project.jpg"
+      name: "BoomTown",
+      description: "PostgresQL React Web App",
+      imgurl: "images/boomtown-login.png"
     },
     {
-      name: "project3",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project2.png"
+      name: "FitGo",
+      description: "Meteor App",
+      imgurl: "images/featured-page.png"
     },
     {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg"
+      name: "UME",
+      description: "WordPress Site",
+      imgurl: "images/ume.png"
     }
   ]
 };

@@ -227,7 +227,8 @@ ul#nav li.current a {
 }
 #about p {
   line-height: 30px;
-  color: #4B0082;
+  color: #696969;
+  /* color: #4B0082; */
 }
 #about .profile-pic {
   position: relative;
@@ -531,6 +532,7 @@ ul#nav li.current a {
 }
 
 /* overlay */
+
 .portfolio-item .item-wrap .overlay {
   position: absolute;
   left: 0;
