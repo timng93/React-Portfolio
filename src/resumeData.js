@@ -21,7 +21,7 @@ let resumeData = {
     }
   ],
   aboutme:
-    "I graduated with a Bachelor Degree in Biology from UBC in 2015. I incidentally explored Coding in the summer 2018 and decided to make a career switch as a developer. At RED Academy, I built my portfolio to showcase my works as a Full-Stack Developer",
+    "I graduated with a Bachelor Degree in Biological Sciences from UBC in 2015. I incidentally explored Coding in the summer of 2018 and decided to make a career switch as a developer. At RED Academy, I built my portfolio to showcase my works as a Full-Stack Developer",
   address: "Vancouver Area",
   education: [
     {
