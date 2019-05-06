@@ -391,8 +391,8 @@ ul#nav li.current a {
 }
 .javascript {
   width: 90%;
-  -moz-animation: jquery 2s ease;
-  -webkit-animation: jquery 2s ease;
+  -moz-animation: javascript 2s ease;
+  -webkit-animation: javascript 2s ease;
 }
 
 @-moz-keyframes photoshop {
