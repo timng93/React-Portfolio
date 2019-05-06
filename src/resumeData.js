@@ -78,7 +78,7 @@ let resumeData = {
       skillname: "CSS"
     },
     {
-      skillname: "PHP"
+      skillname: "Javascript"
     }
   ],
   portfolio: [
