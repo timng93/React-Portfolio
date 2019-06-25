@@ -1,7 +1,7 @@
 let resumeData = {
   name: "Tim",
   fullName: "Tim Nguyen",
-  role: "FrontEnd Developer",
+  role: "Full-Stack Developer",
   linkedinId: "https://www.linkedin.com/in/timng93/",
   phone: "604-362-9472",
   email: "timgabrielnguyen@gmail.com",
