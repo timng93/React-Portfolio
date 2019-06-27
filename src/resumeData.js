@@ -84,6 +84,9 @@ let resumeData = {
       skillname: "Node"
     },
     {
+      skillname: "Meteor"
+    },
+    {
       skillname: "WordPress"
     },
     {
