@@ -98,26 +98,27 @@ let resumeData = {
   ],
   portfolio: [
     {
+      name: "Bon-Appetit",
+      description: "Multi-Platform React Native App",
+      imgurl: "images/bon-appetit.png",
+      repo: "https://github.com/timng93/bon-appetit"
+    },
+    {
+      name: "Team-Mates",
+      description: "Meteor Web App",
+      imgurl: "images/team-mates.png",
+      repo: "https://github.com/timng93/team-mates"
+    },
+    ,
+    {
       name: "CoolIt",
-      description: "iOs App",
+      description: "iOs React Native App",
       imgurl: "images/coolIt.png",
       repo: "https://github.com/timng93/coolIt-winter-2019"
     },
     {
-      name: "BoomTown",
-      description: "PostgresQL React Web App",
-      imgurl: "images/boomtown-login.png",
-      repo: "https://github.com/timng93/Boomtown"
-    },
-    {
-      name: "FitGo",
-      description: "Meteor App",
-      imgurl: "images/featured-page.png",
-      repo: "https://github.com/timng93/fitgo"
-    },
-    {
       name: "UME",
-      description: "WordPress Site",
+      description: "WordPress responsive site built with PHP",
       imgurl: "images/ume.png",
       repo: "https://github.com/timng93/ume-fall-2018"
     }
