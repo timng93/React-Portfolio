@@ -99,8 +99,8 @@ let resumeData = {
   portfolio: [
     {
       name: "Bon-Appetit",
-      description: "Multi-Platform React Native App",
-      imgurl: "images/bon-appetit.png",
+      description: "Coming Soon! Multi-Platform React Native App",
+      imgurl: "images/bon-appetit.jpg",
       repo: "https://github.com/timng93/bon-appetit"
     },
     {
