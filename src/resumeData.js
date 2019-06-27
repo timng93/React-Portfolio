@@ -100,22 +100,26 @@ let resumeData = {
     {
       name: "CoolIt",
       description: "iOs App",
-      imgurl: "images/coolIt.png"
+      imgurl: "images/coolIt.png",
+      repo: "https://github.com/timng93/coolIt-winter-2019"
     },
     {
       name: "BoomTown",
       description: "PostgresQL React Web App",
-      imgurl: "images/boomtown-login.png"
+      imgurl: "images/boomtown-login.png",
+      repo: "https://github.com/timng93/Boomtown"
     },
     {
       name: "FitGo",
       description: "Meteor App",
-      imgurl: "images/featured-page.png"
+      imgurl: "images/featured-page.png",
+      repo: "https://github.com/timng93/fitgo"
     },
     {
       name: "UME",
       description: "WordPress Site",
-      imgurl: "images/ume.png"
+      imgurl: "images/ume.png",
+      repo: "https://github.com/timng93/ume-fall-2018"
     }
   ]
 };
