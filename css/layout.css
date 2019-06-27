@@ -324,11 +324,8 @@ ul#nav li.current a {
 /*	Skill Bars
 /*----------------------------------------------*/
 
-.bars {
-  width: 95%;
-  float: left;
-  padding: 0;
-  text-align: left;
+.skills {
+  font-weight: bold;
 }
 .bars .skills {
   margin-top: 36px;
