@@ -72,13 +72,25 @@ let resumeData = {
   ],
   skills: [
     {
-      skillname: "React"
+      skillname: "React/ React Native"
     },
     {
-      skillname: "CSS"
+      skillname: "HTML5 & CSS3"
     },
     {
       skillname: "Javascript"
+    },
+    {
+      skillname: "Node"
+    },
+    {
+      skillname: "WordPress"
+    },
+    {
+      skillname: "PHP"
+    },
+    {
+      skillname: "GraphQL"
     }
   ],
   portfolio: [
