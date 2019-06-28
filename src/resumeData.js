@@ -84,6 +84,15 @@ let resumeData = {
       skillname: "Node"
     },
     {
+      skillname: "SQL"
+    },
+    {
+      skillname: "MongoDB"
+    },
+    {
+      skillname: "GraphQL"
+    },
+    {
       skillname: "Meteor"
     },
     {
@@ -92,9 +101,7 @@ let resumeData = {
     {
       skillname: "PHP"
     },
-    {
-      skillname: "GraphQL"
-    }
+    
   ],
   portfolio: [
     {
