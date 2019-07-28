@@ -105,16 +105,16 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "BoomTown",
-      description: "React App built with SQL and GraphQL",
-      imgurl: "images/boomtown-login.png",
-      repo: "https://github.com/timng93/Boomtown"
+      name: "Inhabitent",
+      description: "Wordpress Site built with PHP and SASS",
+      imgurl: "images/home-hero.jpg",
+      repo: "https://github.com/timng93/Inhabitent"
     },
     {
-      name: "R10",
-      description: "Cross-Platform iOS and Android React Native App",
-      imgurl: "images/session.png",
-      repo: "https://github.com/timng93/R10"
+      name: "Quotes on Dev",
+      description: "Responsive Wordpress Site built with PHP and SASS",
+      imgurl: "images/desktop.png",
+      repo: "https://github.com/timng93/Project-5-Quotes-on-Dev"
     },
     ,
     {
