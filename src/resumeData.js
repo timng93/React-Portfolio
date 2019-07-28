@@ -105,16 +105,16 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "Bon-Appetit",
-      description: "Coming Soon! Multi-Platform React Native App",
-      imgurl: "images/bon-appetit.jpg",
-      repo: "https://github.com/timng93/bon-appetit"
+      name: "BoomTown",
+      description: "React App built with SQL and GraphQL",
+      imgurl: "images/boomtown-login.png",
+      repo: "https://github.com/timng93/Boomtown"
     },
     {
-      name: "Team-Mates",
-      description: "Meteor Web App",
-      imgurl: "images/team-mates.png",
-      repo: "https://github.com/timng93/team-mates"
+      name: "R10",
+      description: "Cross-Platform iOS and Android React Native App",
+      imgurl: "images/session.png",
+      repo: "https://github.com/timng93/R10"
     },
     ,
     {
